@@ -10,5 +10,5 @@ This course covers the basics of Java programing, including variables, condition
 
 
 
-\# Temur Beraia (@autor)
+\# Temur Beraia (@author)
 
